@@ -164,6 +164,7 @@ main .sobre-nosotros{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    text-align: center;
 }
 
 .hover-galeria img{
@@ -422,5 +423,9 @@ footer{
 
     .titulo-final{
         font-size: 20px;
+    }
+
+    .explicacion{
+        text-align: center;
     }
 }
